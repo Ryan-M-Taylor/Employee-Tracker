@@ -87,4 +87,4 @@ const addEmployeeQuestions = [
     message: "What is the department's id?"},
   ];
 
-  module.exports = { promptQuestions, addEmployeeQuestions, addDepartmentQuestions, employeeRoleQuestions, deleteDepartmentQuestions, deleteRoleQuestions, deleteEmployeeQuestions, viewEmployeesByManagerQuestions, updateEmployeeManagerQuestions, viewBudgetQuestions };
+  module.exports = { promptQuestions, addEmployeeQuestions, addDepartmentQuestions, employeeRoleQuestions, deleteDepartmentQuestions, deleteRoleQuestions, deleteEmployeeQuestions, updateEmployeeManagerQuestions, viewBudgetQuestions };
