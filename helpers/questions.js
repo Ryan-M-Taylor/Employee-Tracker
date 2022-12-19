@@ -1,3 +1,4 @@
+// Description: This file contains the questions that will be asked to the user
 const promptQuestions = [
     {
       type: "list",
@@ -69,12 +70,6 @@ const addEmployeeQuestions = [
     {type: "input",
     name: "id",
     message: "What is the employee's id?"},
-  ];
-
-  const viewEmployeesByManagerQuestions = [
-    {type: "input",
-    name: "manager_id",
-    message: "What is the manager's id?"},
   ];
 
   const updateEmployeeManagerQuestions = [
